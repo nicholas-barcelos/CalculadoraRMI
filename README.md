@@ -4,7 +4,7 @@ Esta é uma aplicação de exemplo onde 2 tipos de clientes(`ClienteA` e `Client
 são responsáveis por um valor(`valorX` e `valorY`) guardado no servidor
 quando os 2 valores são setados cada cliente fica ciente da soma de ambos valores.
 
-** (Em sistemas baseados em unix trocar o "\" por "/" e no "-cp" trocar ";" por ":") **
+**(Em sistemas baseados em unix trocar o "\\" por "/" e no "-cp" trocar ";" por ":")**
 > Não quero fazer duplicatas de script então...
 
 ## Compilar
